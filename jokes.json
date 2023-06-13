@@ -1,0 +1,28 @@
+{
+  "jokes": [
+    {
+      "id": 1,
+      "text": "What did the snail who was riding on the turtle's back say? Wheeeee!"
+    },
+    {
+      "id": 2,
+      "text": "I was going to tell a time traveling joke, but you guys didn't like it."
+    },
+    {
+      "id": 3,
+      "text": "Did you hear about the guy whose left side was cut off? He's all right now."
+    },
+    {
+      "id": 4,
+      "text": "What did one plate say to the other plate? Dinner's on me."
+    },
+    {
+      "id": 5,
+      "text": "What did the mama tomato say to the baby tomato? Catch up!"
+    },
+    {
+      "id": 6,
+      "text": "Two people we walking and the one in the middle fell down"
+    }
+  ]
+}
